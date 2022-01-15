@@ -6,3 +6,6 @@
 ##### cats.service
 ##### cats.interface
 ##### create-cat-dto
+
+# MySQL Docker 설치
+### docker-compose up -d
